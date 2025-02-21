@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Live Demo
-![Live Demo](link-to-your-gif.gif)
+![Live Demo](vedio.gif)
 🔗 [Check it out here!](https://nospamzone.streamlit.app/)
 
 ---
